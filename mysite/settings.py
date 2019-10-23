@@ -25,7 +25,7 @@ SECRET_KEY = 'zazcng6m$gz_s838m4n7_f*k13u1#av8ek754gib-t*uin=0ni'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'diana.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'dianado.pythonanywhere.com']
 
 
 # Application definition
