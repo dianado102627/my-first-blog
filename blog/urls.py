@@ -1,5 +1,3 @@
-{% filename %}blog/urls.py{% endfilename %}
-```python
 from django.conf.urls import url
 from . import views
 
